@@ -3,7 +3,7 @@ A small project uses FRM and clustering to segment customers.
 
 **Characteristic:** Clustering
 
-**Libraries:** numpy, pandas, scikit-learn,matplotlib, seaborn.
+**Libraries:** numpy, pandas,datetime , scikit-learn,matplotlib, seaborn.
 
 **Results:** successfully divide customers into 3 groups which are high potential customers, normal customers, and poor potential customers
 
